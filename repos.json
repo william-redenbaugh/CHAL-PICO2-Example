@@ -1,0 +1,22 @@
+{
+    "CHAL_SHARED": {
+        "dir": "src/CHAL_SHARED",
+        "link": "",
+        "branch": "main"
+    },
+    "CHAL-ESP-IDF": {
+        "dir": "src/CHAL-RASPI-PICO",
+        "link": "",
+        "branch": "main"
+    },
+    "CSAL_SHARED": {
+        "dir": "src/CSAL_SHARED",
+        "link": "",
+        "branch": "main"
+    },
+    "FreeRTOSCSAL": {
+        "dir": "src/FreeRTOSCSAL",
+        "link": "",
+        "branch": "main"
+    }
+}

@@ -1,0 +1,15 @@
+[submodule "src/CHAL-RASPI-PICO"]
+	path = src/CHAL-RASPI-PICO
+	url = git@github.com:william-redenbaugh/CHAL-RASPI-PICO.git
+[submodule "src/FreeRTOSCSAL"]
+	path = src/FreeRTOSCSAL
+	url = git@github.com:william-redenbaugh/FreeRTOSCSAL.git
+[submodule "src/CSAL_SHARED"]
+	path = src/CSAL_SHARED
+	url = git@github.com:william-redenbaugh/CSAL_SHARED.git
+[submodule "src/CHAL_SHARED"]
+	path = src/CHAL_SHARED
+	url = git@github.com:william-redenbaugh/CHAL_SHARED.git
+[submodule "FreeRTOS-Kernel"]
+	path = FreeRTOS-Kernel
+	url = git@github.com:raspberrypi/FreeRTOS-Kernel.git
